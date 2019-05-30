@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xbranch/ngitflow.git"
+    "url": "git+https://github.com/docentovich/ngitflow.git"
   },
   "main": "./lib/index.js",
   "scripts": {
